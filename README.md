@@ -13,18 +13,6 @@
 
 ---
 
-### 📌 Featured Projects
-- [**Apprazer**](https://github.com/justinsiek/Apprazer) 🏠 — *Best Use of AI in Real Estate* @ IrvineHacks  
-  Machine learning pipeline (Random Forest, SVM) on 1M+ HMDA data points → **85% accuracy** in loan approval prediction.
-  
-- [**JobCAT**](https://github.com/sanskarm7/JobCATGmail) 📬  
-  AI-powered Gmail job tracker (React, Node.js, Firebase, Gmail API) → automated scraping, classification & dashboard for applications.
-
-- [**AnteaterAPI**](https://github.com/uci-ics-apis) 🐜  
-  Open-source API serving 40K+ students, managing 250K+ daily requests with Cloudflare Workers + Postgres (AWS RDS).
-
----
-
 ### 📫 Connect
 - 🌐 [sanskarmishra.com](https://sanskarmishra.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanskarmishra)  
