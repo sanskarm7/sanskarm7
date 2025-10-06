@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Sanskar Mishra
 
 🎓 **Computer Science @ UC Irvine (’27)** | Specialization in Intelligent Systems  
-💻 Software Engineer | AI & Systems Builder | Jazz Enthusiast 🎷
+💻 Software Engineer | Borussia Dortmund Fan 🐝 | Jazz Enthusiast 🎷
 
 ---
 
