@@ -1,15 +1,14 @@
-## Hi 👋 I'm Sanskar Mishra
+## Hi 👋 I'm Sanskar
 
-🎓 **Computer Science @ UC Irvine (’27)** | Specialization in Intelligent Systems  
-💻 Software Engineer | Borussia Dortmund Fan 🐝 | Jazz Enthusiast 🎷
+🎓 **Computer Science @ UC Irvine (’27)** 
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently exploring **AI/ML, cloud-native systems, and full-stack development**  
+- 🌱 Exploring **backend development, cloud-native systems, and ML**  
 - 🔭 Interned at **USAA** and **SafetyStratus** 
 - 📊 Leading **AnteaterAPI**
-- 🏃 Outside of code, I enjoy running, jazz (favorite album: *Chet Baker Sings*), and time with my pets 🐾 (Chippy, Cleo, and Chai).
+- 🏃 I enjoy running, jazz (Chet Baker, Wes Montgomery), and Borussia Dortmund (Heja BVB! 🐝)
 
 ---
 
@@ -20,4 +19,3 @@
 
 ---
 
-⭐️ *Always open to collaborating on AI/ML, developer tools, and impactful open-source projects.*
