@@ -5,10 +5,10 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Exploring **backend development, cloud-native systems, and ML**  
-- 🔭 Interned at **USAA** and **SafetyStratus** 
+- 💸 Exploring **backend development, cloud-native systems, and AI in financial systems**  
+- 🏢 Interned at **USAA** and **SafetyStratus**
 - 📊 Leading **AnteaterAPI**
-- 🏃 I enjoy running, jazz (Chet Baker, Wes Montgomery), and Borussia Dortmund (Heja BVB! 🐝)
+- 🏄🏾‍♂️ I enjoy trying to surf, listening to jazz, and watching Borussia Dortmund (Heja BVB! 🐝)
 
 ---
 
