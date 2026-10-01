@@ -5,9 +5,9 @@
 ---
 
 ### 🚀 About Me
-- 💸 Exploring **backend development, cloud-native systems, and AI in financial systems**  
-- 🏢 Interned at **USAA** and **SafetyStratus**
-- 📊 Leading **AnteaterAPI**
+- 💸 Exploring **backend development, cloud-native systems, and AI**  
+- 🏢 Interned at **Amazon**, **USAA** and **SafetyStratus**
+- 📊 Former lead of **AnteaterAPI**
 - 🏄🏾‍♂️ I enjoy trying to surf, listening to jazz, and watching Borussia Dortmund (Heja BVB! 🐝)
 
 ---
