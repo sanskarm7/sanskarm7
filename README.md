@@ -13,7 +13,6 @@
 ---
 
 ### 📫 Connect
-- 🌐 [sanskarmishra.com](https://sanskarmishra.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanskarmishra)  
 - 📧 [sanskarmishra@gmail.com](mailto:sanskarmishra@gmail.com)
 
